@@ -10,8 +10,8 @@ Las cosas fáciles deben permanecer fáciles, las cosas difíciles deberían ser
   
 #Ejecutar Perl6
 
-*REPL (Read-Eval-Print-Loop)
-*perl6 nombreArchivo.pl6
-*perl6 -e 'linea de codigo en Perl6'  
+* REPL (Read-Eval-Print-Loop)
+* perl6 nombreArchivo.pl6
+* perl6 -e 'linea de codigo en Perl6'  
 
  
